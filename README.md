@@ -4,6 +4,14 @@
  - It is also based on DeepSMOTE algorithm which is basically an AutoEncoder to encode any image into feature space and then decode it back into an image.
  - Contrastive learning is used to keep relative distance among samples from different categories in the feature space
 
+# Algorithm Work Flow
+
+Contrastive DeepSMOTE trainging phase
+![Contrastive DeepSMOTE trainging phase](./assets/Training.png)
+
+Contrastive DeepSMOTE inference phase
+![Contrastive DeepSMOTE inference phase](./assets/Inference.png)
+
 # Process Flow
  - Data Preprocessing
    - split to training, validation, test sets
