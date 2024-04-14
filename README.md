@@ -21,3 +21,6 @@ Contrastive DeepSMOTE inference phase
  - Generated SMOTEd Data
  - Use SMOTEd Data to train ResNet-18
  - Test Trained ResNet-18 on test set
+
+ # Results
+ ![Compare to Other Methods](./assets/Results.jpg)
