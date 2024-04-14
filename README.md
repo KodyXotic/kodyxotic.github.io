@@ -10,7 +10,7 @@ Contrastive DeepSMOTE trainging phase
 ![Contrastive DeepSMOTE trainging phase](./assets/Training.png)
 
 Contrastive DeepSMOTE inference phase
-
+![Contrastive DeepSMOTE inference phase](./assets/Inference.png)
 
 # Process Flow
  - Data Preprocessing
